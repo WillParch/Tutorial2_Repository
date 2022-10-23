@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - CountText
+  - LivesText
+  - Enemy
   layers:
   - Default
   - TransparentFX
